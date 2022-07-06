@@ -12,6 +12,7 @@ public class validLogin {
 
 	//---------------Setup---------------
 	WebDriverManager.chromedriver().setup();
+	//Initialize ChromeDriver instance
 	WebDriver driver = new ChromeDriver();
 	//---------------Setup---------------
 	
