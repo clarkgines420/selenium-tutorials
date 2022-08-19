@@ -17,10 +17,7 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class ValidLogin {
 
-	/**
-	 * @param args
-	 * @throws InterruptedException
-	 */
+	//First Selenium Test
 	public static void main(String[] args) throws InterruptedException {
 
 		// ---------------Setup---------------

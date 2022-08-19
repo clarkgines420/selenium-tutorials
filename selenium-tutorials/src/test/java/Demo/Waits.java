@@ -6,6 +6,8 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
+
+//Waits Demo
 public class Waits {
 
 	public static void main(String[] args) throws InterruptedException {

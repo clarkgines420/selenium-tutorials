@@ -3,6 +3,8 @@ package orangeHRMPages;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 
+
+//POM Design Demo
 public class LoginPage {
 
 	// Constructor
